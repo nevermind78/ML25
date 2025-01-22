@@ -12,6 +12,9 @@ slides_html/
 slides_pdf/
 studies/
 
+# Ignorer le fichier .gitignore lui-même
+.gitignore
+
 # Ignorer les fichiers spécifiques
 intro.md
 production.md
