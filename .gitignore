@@ -23,6 +23,7 @@ _config.yml
 _toc.yml
 # Ignorer tous les fichiers du dossier notebook sauf notebooke1.ipynb
 notebooks/*
+!notebooks/
 !notebooks/01 - Introduction.ipynb
 !notebooks/images/
 !notebooks/mglearn/
