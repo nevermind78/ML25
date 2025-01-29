@@ -26,7 +26,7 @@ notebooks/*
 !notebooks/01 - Introduction.ipynb
 !notebooks/images/
 !notebooks/mglearn/
-
+!notebooks/preambule.py
 labs/*
 !labs/Lab 0 - Prerequisites.ipynb
 !labs/Lab 1 - Tutorial.ipynb
