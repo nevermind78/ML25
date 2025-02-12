@@ -32,6 +32,6 @@ labs/*
 !labs/Lab 0 - Prerequisites.ipynb
 !labs/Lab 1 - Tutorial.ipynb
 !labs/Lab 1a - Linear Models for Regression.ipynb
-!labs/Lab 1b - Lab 1b - Linear Models for Classification.ipynb
+!labs/Lab1b-LinearModelsforClassification.ipynb
 
 
