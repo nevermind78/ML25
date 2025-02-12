@@ -29,6 +29,8 @@ notebooks/*
 !notebooks/images/
 !notebooks/mglearn/
 !notebooks/preambule.py
+!notebooks/02 - Linear Models.ipynb
+!notebooks/03 - Kernelization.ipynb
 labs/*
 !labs/Lab 0 - Prerequisites.ipynb
 !labs/Lab 1 - Tutorial.ipynb
