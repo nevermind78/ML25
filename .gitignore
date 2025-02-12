@@ -6,6 +6,7 @@ data/models/*
 *.swp
 .ipynb_checkpoints
 .jupyter
+.gitignore
 # Ignorer les dossiers
 data/
 slides_html/
